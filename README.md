@@ -47,9 +47,10 @@ Generates:
 
 ddos_results/
 │
-├── models/        # Saved Transformer model checkpoints (.pth)
-├── plots/         # Loss/Accuracy, ROC, CM, UMAP images
-└── reports/       # Classification reports for each fold (CSV)
+├── models/        # Saved model checkpoints
+├── plots/         # Visualizations
+└── reports/       # Classification reports
+
 
 
 ## Python Libraries Used
