@@ -45,11 +45,12 @@ Generates:
 
 ### 5. Output Structure
 
-ddos_results/
-│
-├── models/        # Saved model checkpoints
-├── plots/         # Visualizations
-└── reports/       # Classification reports
+| Folder   | Description                 |
+|----------|------------------------------|
+| models   | Saved model checkpoints      |
+| plots    | Visualizations               |
+| reports  | Classification reports       |
+
 
 
 
